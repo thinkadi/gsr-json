@@ -1,10 +1,10 @@
-package com.adizon.aws;
+package com.adizon.aws.kafka;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class RunProducer 
 {
     public static void main( String[] args )
     {
